@@ -36,7 +36,7 @@ services.AddIdentity<AppUser, IdentityRole>()
      .AddRoles<IdentityRole>()
       .AddEntityFrameworkStores<TourContext>()
       .AddDefaultTokenProviders();
-
+services.AddRazorPages();
 //Identity/Account/Login
 // dang ky indentity , role : vai tro
 
