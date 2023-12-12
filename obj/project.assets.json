@@ -12469,11 +12469,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Desktop\\BookTourv3\\BookingTour.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Desktop\\BookTourv2\\BookingTour.csproj",
       "projectName": "BookingTour",
-      "projectPath": "C:\\Users\\pc\\OneDrive\\Desktop\\BookTourv3\\BookingTour.csproj",
+      "projectPath": "C:\\Users\\pc\\OneDrive\\Desktop\\BookTourv2\\BookingTour.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\OneDrive\\Desktop\\BookTourv3\\obj\\",
+      "outputPath": "C:\\Users\\pc\\OneDrive\\Desktop\\BookTourv2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
